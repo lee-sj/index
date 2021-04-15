@@ -1,36 +1,56 @@
 # index
+레포 정리 및 목록  
+
+## lee-sj
+개인 계정 레포 목록  
+
+### public repo
+lee-sj  
+index.html  
+Coding_Everybody  
+certification  
+gonggu  
+hufs_festival_2018  
+hufs_festival_2019  
+lecture-slide-to-pdf  
+likelion_apply  
+MP_LEC  
+relation_app  
+The_Coding_Train  
+paper  
+
+## edu-jun
+온/오프라인 세션 진행 자료 및 대본  
+#### [EDU-JUN](https://github.com/edu-jun)
+
+### public repo
+django-2020  
+opencv   
+DNS   
+git  
+EC2  
+codestar  
+
+
+# before
+
 
 #### [GUIDE.md](GUIDE.md)  
 #### [PORJECT.md](PROJECT.md)
 #### [STUDY.md](STUDY.md)  
 
-## public repo
-index.html - 래포 모음 현 래포    
-7th_apply - 멋사 7기,9기 지원자 정보 엑셀 파일생성 레포  
+## public repo  
 annyang - annyang api fork 레포  
 
 ### 공부 레포
-Coding_Everybody - 생활코딩 레포  
-MP_LEC - 외대 마프 코드 레포  
 Error-warning-bug - 자주 발생하는 EWB issue 관리 레포  
 
-### 강의 레포 
-2020-django - 2020 장고 강의 레포  
-opencv - rails opencv 강의 레포  
-DNS - dns 강의 레포  
-git-2020 - git 강의 레포  
-EC2 - AWS EC2 강의 레포  
-codestar - AWS codestar 강의 레포  
-python-slide-to-pdf - 외대 강의자료 생성 코드 레포  
 
 ### 배포 사이트 레포
 heroku-easy-deploy - heroku easy deploy 레포 (헤로쿠)   
-heroku-deploy-rails - heroku rails simple deploy 레포 (헤로쿠)  
-gonggu - 17,18년도 공구 배포 사이트 - (깃헙페이지)   
+heroku-deploy-rails - heroku rails simple deploy 레포 (헤로쿠)   
 hufslion_6th_member - 북극곰 야잠 공구 -> 멋사 6기 자기소개  레포 (헤로쿠)   
-simple_table_rails - simple table 레포 (헤로쿠)   
-2018_hufs_festival - 2018 축제서비스 레포 (헤로쿠)   
-relation_app - RAPP 레포 (헤로쿠)   
+simple_table_rails - simple table 레포 (헤로쿠)    
 assign_blog - 회원가입 구현 블로그 레포 (헤로쿠)   
 
 ### 잡다
@@ -42,14 +62,13 @@ for-branch - 수료증 및 교육증 pdf 저장 레포
 for-pic-url - 이미지 이슈 저장용 레포  
 
 ### 공부 레포
-Coding_Challenges - The Coding Train - Coding Challenges 학습 레포  
 programmers.co.kr - 프로그래머스 관련 공부 코드 레포  
 codelab-pwa - 구글 코드랩 레포  
 note-coding - 코딩 공부 자문자답 레포  
 git-custom-commands - git custom command 레포  
 
 ### 배포 사이트 레포 
-2019_hufs_festival - 2019 축제서비스 레포 (헤로쿠)   
+
 member_hufs_likelion - 외대 멋사 멤버 4~7기 레포 (헤로쿠)   
 hufs_likelion_6th_page - 6기 멋사 홈페이지 프로젝트 레포 (헤로쿠)   
 
