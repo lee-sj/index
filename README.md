@@ -5,6 +5,8 @@
 개인 계정 레포 목록  
 
 ### public repo
+**12개 레포**  
+
 lee-sj  
 index.html  
 Coding_Everybody  
@@ -17,13 +19,24 @@ likelion_apply
 MP_LEC  
 relation_app  
 The_Coding_Train  
+ 
+
+### private repo
+**4개 레포**  
+
 paper  
+paper_prepare  
+private_repo_list_1  
+private_repo_list_2  
+
 
 ## edu-jun
 온/오프라인 세션 진행 자료 및 대본  
 #### [EDU-JUN](https://github.com/edu-jun)
 
 ### public repo
+**6개 레포**  
+
 django-2020  
 opencv   
 DNS   
@@ -31,6 +44,11 @@ git
 EC2  
 codestar  
 
+
+
+----
+  
+  
 
 # before
 
